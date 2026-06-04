@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Test-Path *)",
+      "PowerShell(New-Item *)",
+      "PowerShell(Get-ChildItem *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\modified_inputs *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\modified_inputs\\\\Documents *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\modified_inputs\\\\Module 2 - Dùng ngôn từ an toàn *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\task\\\\Task_01 *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\task\\\\Task_01\\\\images *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\task\\\\Task_01\\\\images\\\\Leefar *)",
+      "Bash(dir c:\\\\Users\\\\admin\\\\Downloads\\\\Toptop\\\\modified_inputs\\\\Documents\\\\Tạo body video bằng flow veo *)"
+    ]
+  }
+}

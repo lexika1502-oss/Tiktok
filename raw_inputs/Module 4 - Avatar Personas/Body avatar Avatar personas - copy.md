@@ -1,0 +1,192 @@
+# [Body avatar] Avatar personas
+
+## 1. Avatar personas là gì? Vì sao quan trọng?
+
+Sau khi lựa chọn xong concept cho avatar body của mình, bước tiếp theo bạn cần thực hiện là xác định định danh nhân vật (personas) phù hợp cho avatar đó. Hãy hình dung đơn giản như thế này: sau khi bạn đã xác định được góc máy, cách quay và phong cách hình ảnh cho thước phim của mình, thì đây chính là thời điểm bạn cần lựa chọn nhân vật và bối cảnh tương thích với concept đó. Hai yếu tố này luôn tồn tại song song và có mối liên kết trực tiếp đến khả năng truyền tải nội dung của video. Chỉ cần thiếu hoặc làm sai một trong hai bước, hiệu quả đầu ra của content sẽ bị ảnh hưởng. Dù kịch bản của bạn có tốt đến đâu, nếu concept hình ảnh và định danh nhân vật không đồng nhất, kết quả cuối cùng sẽ thiếu tính thuyết phục, khó tạo cảm xúc và rất khó đạt được hiệu quả viral như mong muốn.
+
+Hãy lấy một ví dụ để hình dung rõ hơn về cách triển khai đúng. Giả sử sau khi đã có kịch bản, bạn xác định concept cho avatar body của mình là một buổi studio interview chuyên nghiệp. Ở bước tiếp theo, bạn cần lựa chọn một personas có khả năng củng cố mạnh nhất cho concept này. Ví dụ, đó có thể là một người đàn ông ở độ tuổi 50s, mái tóc điểm bạc, phong thái điềm tĩnh, có chiều sâu tri thức, mặc trang phục smart-casual cao cấp và ngồi trong một không gian studio với tone màu đỏ trầm mang cảm giác premium và chuyên nghiệp. Đây sẽ là lựa chọn hợp lý và đồng bộ hơn rất nhiều so với 2 sự lựa chọn khác như:
+
+1. Một trưởng lão người châu Phi mặc trang phục truyền thống Nigeria trong bối cảnh căn nhà đất sét mang đậm văn hóa bộ tộc.
+2. Một người đàn ông Mỹ gốc Phi có body săn chắc, cởi trần và đang chạy bộ ngoài công viên.
+
+![Screenshot 2026-05-14 at 11.02.00.png](attachment:de86323b-5411-44ff-9b09-b656c77437f3:Screenshot_2026-05-14_at_11.02.00.png)
+
+Điều quan trọng cần hiểu ở đây là cả hai avatar kể trên đều không hề tệ hay kém hiệu quả. Trên thực tế, đây đều là những dạng avatar đã từng tạo ra lượng view và mức độ viral cực lớn trên thị trường trong thời gian gần đây. Tuy nhiên, lý do chúng ta không lựa chọn chúng trong ví dụ này là vì chúng không phù hợp với concept đã được xác định ngay từ đầu. Một personas mạnh nhưng đặt sai context vẫn sẽ làm giảm chất lượng tổng thể của content.
+
+<aside>
+💡
+
+Ví dụ này được đưa ra nhằm củng cố một nguyên tắc cực kỳ quan trọng trong quá trình xây dựng AI content: việc lựa chọn concept và personas cho avatar body không phải là hai hoạt động độc lập, mà là hai yếu tố có tính liên kết chặt chẽ với nhau. Một concept tốt sẽ giúp personas phát huy tối đa sức mạnh hình ảnh và cảm xúc; ngược lại, một personas phù hợp sẽ làm cho concept trở nên thuyết phục và có chiều sâu hơn.
+
+</aside>
+
+Dưới đây là 3 personas mang tính “evergreen” — tức gần như không bao giờ lỗi thời — trong lĩnh vực thực phẩm chức năng, làm đẹp và sức khỏe mà bạn có thể sử dụng để tham khảo và lấy cảm hứng trong quá trình sáng tạo nội dung của mình. Tại thời điểm hiện tại, thị trường đã xuất hiện rất nhiều định danh nhân vật mới được thử nghiệm và tạo ra hiệu ứng viral mạnh mẽ. Tuy nhiên, phần lớn những ý tưởng sáng tạo đó đều bắt nguồn hoặc phát triển từ nền tảng của các personas cốt lõi dưới đây.
+
+Điều cần hiểu là sáng tạo không đến từ việc sao chép một hình mẫu có sẵn, mà đến từ khả năng phát triển và mở rộng hệ quy chiếu hình ảnh dựa trên trải nghiệm cá nhân, kiến thức chuyên môn của mỗi người trong lĩnh vực mình theo đuổi, cũng như khả năng học hỏi từ nguồn tham khảo gần như vô tận trên các nền tảng như TikTok, Facebook, Instagram, Pinterest và nhiều hệ sinh thái content khác. Những creator có khả năng đi xa nhất thường không phải là những người copy tốt nhất, mà là những người biết cách kết hợp nguồn cảm hứng thị trường với góc nhìn cá nhân để tạo ra một hệ thống hình ảnh mang dấu ấn riêng của họ.
+
+## 2. Các avatar personas nền tảng
+
+### 2.1 Bác sĩ, điều dưỡng viên, y tá hoặc các chức năng trong bệnh viện
+
+![IMG_9004.PNG](attachment:7315a9b1-ae51-45ac-9e40-89b35a92f8ae:IMG_9004.png)
+
+Đây là định danh nhân vật phổ biến và hiệu quả hàng đầu trong lĩnh vực sức khỏe & làm đẹp, đồng thời cũng là một trong những định danh thể hiện rõ nét nhất sức mạnh của AI trong kỷ nguyên sáng tạo nội dung bằng AI. Định danh này cho phép bạn xây dựng một nhân vật sở hữu mức độ uy tín cực cao trong lĩnh vực y tế — nhân vật có thể là bác sĩ, điều dưỡng hoặc chuyên gia chăm sóc sức khỏe chuyên nghiệp. Đây chính là lợi thế cạnh tranh vượt trội mà sáng tạo nội dung truyền thống rất khó đạt được, bởi ngoài đời thực không phải ai cũng có đủ điều kiện, chuyên môn hoặc hình ảnh để trở thành những định danh mang tính authority mạnh mẽ như vậy.
+
+Và dữ liệu thị trường cũng phản ánh điều này một cách rất rõ ràng. Những nhân vật thuộc nhóm personas này hiện đang là dạng body avatar được sử dụng nhiều nhất bởi các creator top đầu trong ngành sức khỏe & làm đẹp. Đồng thời, đây cũng là nhóm avatar tạo ra số lượng video viral, tỷ lệ giữ chân người xem và khả năng tạo doanh thu mạnh nhất trên các nền tảng social content hiện nay. Lý do nằm ở việc personas này ngay lập tức tạo được cảm giác chuyên môn, đáng tin cậy và có tính thuyết phục rất cao ngay từ những giây đầu tiên người xem tiếp cận nội dung.
+
+Tuy nhiên, lý do khiến personas này được ưa chuộng không chỉ đến từ tiềm năng viral hay lợi thế cạnh tranh mạnh mẽ mà nó tạo ra trong lĩnh vực sức khỏe & làm đẹp, mà còn đến từ tính ứng dụng gần như không giới hạn của nó. Khác với nhiều personas khác thường chỉ phát huy hiệu quả tối ưu trong một vài format hoặc bối cảnh cụ thể, personas bác sĩ và chuyên gia y tế lại có khả năng thích nghi với gần như mọi loại nội dung và mọi phong cách triển khai hình ảnh.
+
+Bạn có thể sử dụng personas này trong các cảnh quay talking-head góc cận để tạo cảm giác gần gũi và cá nhân, trong các buổi phỏng vấn studio chuyên nghiệp để xây dựng hình ảnh chuyên gia đáng tin cậy, hoặc trong các bối cảnh sân khấu, hội trường, keynote và seminar để tăng cảm giác authority và quy mô cho nội dung. Đây là một trong số rất ít personas có khả năng hoạt động hiệu quả đồng thời ở cả những format mang tính cá nhân lẫn những format mang tính chuyên môn cao.
+
+Điều quan trọng duy nhất khi kết hợp personas này với các concept body hoặc bối cảnh hình ảnh là bạn cần đảm bảo sự đồng bộ giữa hình ảnh nhân vật và cấu trúc kịch bản. Một personas mang hình ảnh bác sĩ hoặc chuyên gia y tế sẽ yêu cầu nội dung có tính logic, kiến thức chuyên môn và phong cách truyền tải phù hợp với ngữ cảnh xuất hiện của nhân vật đó. Ví dụ, kịch bản dành cho một buổi phỏng vấn bác sĩ trong studio thường sẽ cần cảm giác gần gũi, tự nhiên và mang tính cá nhân cao hơn để tạo kết nối với người xem; trong khi kịch bản dành cho một bài chia sẻ trong hội trường hoặc conference chuyên nghiệp sẽ cần tone truyền tải mạnh mẽ, có tính dẫn dắt và chuyên môn rõ ràng hơn để phù hợp với hình ảnh authority của nhân vật.
+
+Dưới đây là các keyword về personas mà bạn nên tham khảo để sử dụng trong prompt tạo hình ảnh của mình. Tuy nhiên, hãy xem chúng như một điểm khởi đầu để làm quen với cách xây dựng hình ảnh và hệ thống visual cho content của bạn, thay vì giới hạn khả năng sáng tạo trong những framework có sẵn. Khi đã hiểu cách vận hành của các personas này, bạn nên bắt đầu mở rộng nguồn tham khảo, kết hợp nhiều lớp ý tưởng, phong cách hình ảnh và cảm hứng khác nhau để phát triển những concept mang dấu ấn riêng.
+
+Và hãy nhớ rằng, bạn là một nhà sáng tạo nội dung. Vì vậy, đừng thỏa hiệp với bất kỳ điều gì có khả năng giới hạn tư duy sáng tạo của bạn.
+
+| Demographic | Vibe | Outfit & Accesories | Background |
+| --- | --- | --- | --- |
+|   • African American doctor
+  • Black male physician
+  • Black female nurse
+  • Caucasian surgeon
+  • White American doctor
+  • Hispanic medical expert
+  • Latino wellness doctor
+  • Asian physician
+  • Korean dermatologist
+  • Japanese medical specialist
+  • Indian cardiologist
+  • Middle Eastern doctor
+  • Thai wellness expert
+  • Filipino nurse
+  • Elderly female doctor
+  • Senior male physician
+  • Middle-aged medical expert |   • trustworthy
+  • authoritative
+  • compassionate
+  • calm and intelligent
+  • experienced
+  • highly educated
+  • confident but approachable
+  • professional and warm
+  • realistic healthcare professional
+  • respected medical expert
+  • friendly bedside manner
+  • knowledgeable speaker | **Outfit** 
+  • blue medical scrubs
+  • navy blue scrubs
+  • dark teal scrubs
+  • hospital scrubs
+  • fitted scrubs
+  • clean medical uniform
+  • modern healthcare uniform
+  • professional doctor outfit
+  • white lab coat
+  • doctor lab coat
+  • physician coat
+  • long white coat
+  • medical attire
+  • surgical uniform
+  • luxury medical uniform
+  • premium healthcare attire
+  • elegant doctor outfit
+  • formal medical attire
+  • tailored medical coat
+  • high-end private clinic outfit
+
+**Phụ kiện** 
+  • stethoscope around neck
+  • medical gloves
+  • surgical cap
+  • ID badge
+  • lapel microphone
+  • smartwatch
+  • clipboard in hand
+  • holding medical documents
+  • tablet in hand
+  • medical chart
+  • wearing latex gloves |   • modern clinic
+  • private medical office
+  • luxury clinic interior
+  • doctor consultation room
+  • cozy medical office
+  • realistic clinic environment
+  • bookshelf in background
+  • indoor plants
+  • warm ambient lighting
+  • wooden furniture
+  • realistic office background
+  • realistic hospital room
+  • emergency room
+  • ICU background
+  • hospital bed
+  • medical monitor
+  • surgery preparation room
+  • clinical environment
+  • operating room
+  • hospital equipment
+  • medical devices
+  • patient room
+  • healthcare facility
+  • TED talk stage
+  • medical conference
+  • healthcare seminar
+  • keynote speaker
+  • conference stage
+  • professional stage lighting
+  • LED screen background
+  • auditorium
+  • medical presentation
+  • speaker holding microphone
+  • public speaking
+  • wellness conference
+  • health summit |
+
+### 2.2 Các cá nhân chuyên gia có uy tín cao
+
+![Screenshot 2026-05-14 at 11.02.00.png](attachment:e34adbe3-49d1-4289-a93f-09314fa2d464:Screenshot_2026-05-14_at_11.02.00.png)
+
+Đây là định danh nhân vật phổ biến hàng đầu trong gần như mọi lĩnh vực, đặc biệt phù hợp với các nội dung mang tính chia sẻ chuyên sâu, tư vấn cá nhân, phân tích tâm lý hành vi, lifestyle cao cấp hoặc giáo dục sức khỏe theo hướng hiện đại và gần gũi. Đây cũng là một trong những định danh thể hiện rõ nhất lợi thế của AI trong thời đại sáng tạo nội dung bằng AI, bởi nó cho phép bạn tạo ra một nhân vật vừa mang cảm giác chuyên môn cao, vừa giữ được sự đời thường và kết nối tự nhiên với người xem. Nhân vật này có thể là chuyên gia sức khỏe, wellness coach, chuyên gia chăm sóc da, cố vấn dinh dưỡng, chuyên gia hormone, biohacking expert, therapist hoặc host podcast về sức khỏe & phát triển bản thân.
+
+Điểm mạnh lớn nhất của personas này nằm ở khả năng xây dựng niềm tin cực nhanh nhưng không tạo cảm giác “quá học thuật” như hình tượng bác sĩ truyền thống. Nếu personas bác sĩ mang lại authority mạnh bằng áo blouse và môi trường y tế chuyên nghiệp, thì personas chuyên gia dân sự lại tạo cảm giác hiện đại, thành công, hiểu biết và gần gũi hơn với đời sống thực tế của khán giả. Đây là lợi thế cực kỳ lớn trong thời đại social content hiện nay, nơi người xem ngày càng yêu thích cảm giác “được trò chuyện cùng chuyên gia” hơn là “được giảng dạy bởi chuyên gia”.
+
+Đặc biệt, đây là một trong những personas có khả năng tạo ra các video viral cực mạnh ở những chủ đề như sức khỏe tinh thần, anti-aging, skincare, hormone balance, fitness lifestyle, longevity, self-improvement và wellness hiện đại. Sự kết hợp giữa ngoại hình chỉn chu, phong thái điềm tĩnh, outfit smart-casual và không gian studio cao cấp giúp nhân vật này tạo ra cảm giác “premium expertise” — một dạng hình ảnh đang hoạt động cực kỳ hiệu quả trên TikTok.
+
+Và việc personas này được ưa chuộng không chỉ đến từ tính uy tín và khả năng xây dựng thương hiệu cá nhân mạnh mẽ, mà còn đến từ tính ứng dụng cực kỳ linh hoạt của nó. So với nhiều personas khác cần bối cảnh rất đặc thù để đạt hiệu quả tối ưu, thì personas chuyên gia dân sự trong lĩnh vực sức khỏe & làm đẹp có khả năng thích nghi gần như với mọi format nội dung.
+
+Điều quan trọng nhất khi sử dụng personas này là đảm bảo sự đồng bộ giữa hình ảnh nhân vật và chiều sâu nội dung. Một nhân vật mang hình ảnh chuyên gia hiện đại sẽ yêu cầu kịch bản có góc nhìn rõ ràng, có kiến thức chuyên môn và cách truyền tải chuyên nghiệp nhưng tự nhiên. Ví dụ, kịch bản cho một buổi podcast chia sẻ về stress, giấc ngủ hoặc skincare routine sẽ cần cảm giác gần gũi, cá nhân và nhưng vẫn giữ tính chuyên nghiệp cao; trong khi một video về cuộc phỏng vấn đường phố sẽ thường thoải mái và có phần “đời thường” hơn.
+
+Dưới đây là các keyword về personas bạn nên tham khảo để sử dụng trong prompt tạo hình ảnh của mình.
+
+| Demographic | Vibe | Outfit & Accesories | Background |
+| --- | --- | --- | --- |
+| African American wellness expert - Black male health consultant - Black female wellness coach - Caucasian longevity expert - White American skincare specialist - Hispanic health educator - Latino wellness speaker - Asian wellness consultant - Korean skincare expert - Japanese longevity specialist - Indian nutrition expert - Middle Eastern wellness advisor - Thai holistic health coach - Filipino wellness mentor - elderly male wellness expert - senior female health advisor - middle-aged wellness specialist - young modern health entrepreneur - male podcast host expert - female wellness podcast speaker | trustworthy - intelligent and articulate - calm and confident - modern expert aesthetic - premium lifestyle energy - highly educated - sophisticated - approachable authority - emotionally intelligent - thoughtful speaker - successful and charismatic - grounded and relatable - wellness-focused lifestyle - luxury wellness vibe - podcast expert energy - inspirational and insightful - clean masculine aesthetic - elegant feminine wellness aesthetic - realistic modern expert - TED-talk style speaker | **Outfit** 
+dark turtleneck sweater - fitted turtleneck - luxury knitwear - charcoal blazer - tailored blazer - smart casual outfit - premium casual businesswear - modern expert outfit - minimalist luxury fashion - elegant monochrome outfit - fitted dress shirt - neutral-tone clothing - luxury lifestyle attire - sophisticated wellness outfit - high-end casual fashion - tailored trousers - business casual aesthetic
+
+**Phụ kiện** 
+podcast microphone - studio microphone arm - lapel microphone - smartwatch - holding coffee mug - holding tablet - notebook on table - leather notebook - wireless earbuds - desktop microphone setup - professional headphones - wellness book in hand - speaking with hand gestures - sitting in leather chair - luxury desk setup | modern podcast studio - luxury podcast setup - premium wellness studio - modern consultation office - minimalist office interior - cinematic studio lighting - warm ambient lighting - bookshelf in background - indoor plants - wooden furniture - modern luxury workspace - realistic office environment - cozy intellectual atmosphere - clean modern background - soft warm lighting - contemporary studio aesthetic - high-end interview studio - realistic talking-head setup - TED talk stage - wellness conference - keynote speaker stage - auditorium background - conference spotlight lighting - luxury seminar hall - professional stage lighting - large LED screen background - public speaking setup - mastermind event stage - premium wellness summit - luxury healthcare conference |
+
+### 2.3 Các thầy thuốc cổ truyền của các dân tộc (traditonal holistic healer)
+
+![IMG_8996.PNG](attachment:8cfefc3b-cca7-4ef2-8d4d-9185fefdb10a:IMG_8996.png)
+
+[Video tham khảo](https://drive.google.com/file/d/1UZ-qfMKqjC5fo3LyuhOiBEX-ch7TQCKq/view?usp=drive_link)
+
+Đây là một trong những định danh nhân vật độc đáo và giàu chiều sâu văn hóa nhất trong lĩnh vực sức khỏe & làm đẹp, đặc biệt phù hợp với các nội dung liên quan đến chữa lành tự nhiên, y học cổ truyền, thảo dược dân tộc, tinh thần, năng lượng, longevity, holistic wellness và tri thức chữa lành cổ xưa. Đây cũng là loại định danh tối ưu nhất cho những loại sản phẩm có chưa nhiều thành phần từ tự nhiên, vì nó cho phép bạn củng cố tính “natural” từ thoại cho tới hình ảnh. Ví dụ nếu bạn quảng cáo một sản phẩm có thành phần làm từ muối Himalaya thì còn gì tốt hơn ngoài một avatar là một nhà sư ở núi này với bối cảnh nhân vật đang ngồi trong một phòng gỗ chứa nhiều lọ thảo dược? Ý tưởng nhân vật vô cùng đa dạng và luôn khuyến khích bạn nên thử nghiệm nhiều, nhân vật có thể là già làng Bắc Âu, healer châu Phi, thầy thuốc thảo dược Đông Nam Á, trưởng lão bản địa Nam Mỹ, pháp sư chữa lành, tribal elder hoặc người gìn giữ tri thức y học truyền thống của một bộ tộc cổ xưa.
+
+Điểm mạnh lớn nhất của personas này nằm ở cảm giác “kiến thức cổ xưa truyền từ đời này sang đời khác” — một dạng uy tín hoàn toàn khác so với bác sĩ hiện đại hay chuyên gia dân sự. Nếu personas bác sĩ tạo niềm tin bằng chuyên môn y học hiện đại, và personas chuyên gia tạo cảm giác gần gũi, hiểu biết, thì traditional holistic healer lại tạo ra cảm giác huyền, nguyên bản và mang tính di sản văn hóa. Đây là kiểu nhân vật khiến người xem cảm thấy họ đang được tiếp cận với những tri thức chữa lành đã tồn tại hàng trăm năm, được truyền lại qua nhiều thế hệ thay vì chỉ là kiến thức “internet wellness” hiện đại.
+
+Đặc biệt, đây là một trong những personas có khả năng tạo ra visual cực kỳ viral trên các nền tảng short-form content như TikTok, bởi hình ảnh của nó mang tính cảm xúc rất mạnh. Một người già với gương mặt đầy dấu vết thời gian, mặc trang phục truyền thống, ngồi trong căn phòng gỗ phủ ánh lửa vàng, xung quanh là thảo mộc khô, khói hương và những vật dụng cổ truyền — tự bản thân visual đó đã tạo ra một cảm giác storytelling cực mạnh. Đây là dạng personas hoạt động đặc biệt hiệu quả với các chủ đề về chữa lành sức khỏe một cách tự nhiên hoặc để quảng bá các sản phẩm có thiên hướng hướng về tự nhiên trong thời đại các sản phẩm đều nhuốm màu của phòng lab.
+
+Khác với nhiều personas hiện đại thường phụ thuộc nhiều vào góc quay studio hoặc format podcast, traditional holistic healer lại cho phép bạn xây dựng cả một câu chuyện hình ảnh riêng biệt xoay quanh văn hóa, nghi lễ, không gian sống và tri thức dân tộc của nhân vật. Bạn có thể đặt nhân vật trong những căn nhà đất sét ở châu Phi, cabin gỗ Bắc Âu, ngôi làng vùng núi Đông Nam Á, khu rừng thảo dược hoặc không gian nghi lễ tribal cổ xưa — tất cả đều có khả năng tạo ra hiệu ứng storytelling rất mạnh cho người xem.
+
+| Demographic | Vibe | Outfit & Accesories | Background |
+| --- | --- | --- | --- |
+| Thêm input [Dân tộc] hoặc [Đất nước] vào trước các keyword để tăng tính sáng tạo & riêng biệt.
+
+tribal holistic healer - traditional medicine elder - indigenous wellness expert - ancient herbal healer - village spiritual healer - ethnic medicine keeper - ancestral wellness master - traditional healing mentor - native herbal medicine practitioner - old world healer - tribal wisdom keeper - holistic ritual specialist - spiritual medicine elder - sacred healing guide - traditional wellness storyteller - village elder healer - ancient remedy expert - cultural healing practitioner - nomadic herbal healer - ethnic wellness guardian - mountain village healer - forest medicine elder - desert tribe healer - northern tribal elder - southern indigenous healer - elderly holistic healer - senior tribal medicine expert - aged wisdom keeper - ancient wellness shaman - traditional healing woman | ancient wisdom - mystical presence - spiritually grounded - calm and wise - sacred healing energy - timeless knowledge - deep ancestral wisdom - earthy and natural - ritualistic atmosphere - soulful and introspective - emotionally grounding - mysterious but comforting - authentic cultural energy - old world aesthetic - healing-focused presence - peaceful and meditative - spiritual wellness energy - cinematic tribal vibe - weathered and experienced - humble wisdom - natural healer energy - sacred storyteller vibe - raw human authenticity - holistic lifestyle energy - connected to nature - ancestral wellness aesthetic - grounded spiritual authority - ancient healer aura - traditional lifestyle atmosphere - ritual healing presence | Thêm input [Dân tộc] hoặc [Đất nước] vào trước các keyword để tăng tính sáng tạo & riêng biệt.
+
+traditional tribal clothing - handcrafted ethnic outfit - natural fabric robe - layered traditional garments - rustic healer attire - woven cultural outfit - ceremonial clothing - earth-tone garments - textured natural fabrics - traditional village outfit - handcrafted wellness attire - fur-lined traditional clothing - linen healing robe - loose ethnic garments - heritage-inspired outfit - minimalist tribal fashion - organic material clothing - weathered traditional attire - ritual healer clothing - spiritual ceremonial robe - wooden bead necklace - tribal jewelry - handcrafted accessories - natural stone accessories - feather accessories - woven bracelets - ritual staff - herbal pouch - leather satchel - healing bowl - traditional medicine tools - dried herbs in hand - wooden walking stick - smoking incense - holding herbal bundle - clay containers - handmade baskets - herbal preparation tools - traditional pottery - ritual candles | Thêm input [Dân tộc] hoặc [Đất nước] vào trước các keyword để tăng tính sáng tạo & riêng biệt.
+
+traditional healing room - rustic wooden cabin - ancient tribal interior - clay house interior - natural medicine workspace - sacred ritual space - ancestral healing environment - warm fire-lit room - earthy traditional setting - handcrafted wooden interior - village healing hut - herbal medicine room - traditional cultural environment - candle-lit healing space - smoke-filled atmosphere - forest village background - mountain tribe setting - desert tribal home - northern village cabin - remote healing sanctuary - old world architecture - organic natural textures - ancient spiritual environment - authentic tribal atmosphere - rustic wellness aesthetic - traditional village house - earthy cinematic lighting - sacred ceremonial setting - herbal storage room - handcrafted cultural decor - woven wall decorations - traditional ritual environment - warm ambient lighting - mystical indoor atmosphere - ancient wellness sanctuary - nature-connected interior - healing ritual background - old wooden furniture - traditional pottery decor - cinematic ancestral setting |
